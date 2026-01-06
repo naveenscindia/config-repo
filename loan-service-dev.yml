@@ -1,0 +1,7 @@
+security:
+  oauth:
+    client-id: TMF-CLIENT-123
+    client-secret: TMF-SECRET-999
+
+language:
+  file-path: classpath:i18n/messages.json
